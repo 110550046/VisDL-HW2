@@ -1,9 +1,7 @@
 # NYCU CV 2025 Spring HW2
 
-```
-StudentID:110550046
+StudentID:110550046  
 Name:吳孟謙
-```
 
 ## Introduction
 
