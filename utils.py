@@ -73,7 +73,7 @@ class DigitDataset(Dataset):
         target = {"boxes": boxes, "labels": labels, "image_id": torch.tensor([img_id])}
 
         if self.transform:
-            image = self.transform(image)
+            image, target = self.transform(image, target)
 
         return image, target
 
