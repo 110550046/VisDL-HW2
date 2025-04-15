@@ -45,3 +45,5 @@ python inference.py
 ```
 
 ## Performance snapshot
+![image](https://github.com/user-attachments/assets/fbbea0dd-1ad6-4fbc-831e-056916c4425d)
+
